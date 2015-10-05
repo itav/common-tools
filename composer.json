@@ -1,0 +1,11 @@
+{
+    "name": "sylwester/common-tools",
+    "authors": [
+        {
+            "name": "Sylwester",
+            "email": "s.kowalski@itav.pl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
